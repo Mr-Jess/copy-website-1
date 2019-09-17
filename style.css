@@ -70,3 +70,14 @@ li.nav-links a:hover {
     padding-top: 30px;
     margin-bottom: 300px;
 }
+
+/* Footer */
+
+.footer  {
+    background: #f2f2f2;
+    border-top: solid 2px #e4e4e4;
+    bottom: 0;
+    padding-bottom: 0;
+    width: 100%;
+    
+}
